@@ -1,0 +1,13 @@
+Model tested on the test dataset
+
+RGBT
+Confusion Matrix: [[8725  135]
+ [ 328  952]]
+F1 score : 0.8043937473595268, Recall : 0.74375, Precision : 0.8758049678012879, Acc : 0.9543392504930966
+
+RGB
+Confusion Matrix: [[8753  190]
+ [ 300  897]]
+F1 score : 0.7853618421052632, Recall : 0.7490196078431373, Precision : 0.8254105445116681, Acc : 0.9485207100591716
+
+
